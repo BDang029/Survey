@@ -48,7 +48,10 @@
                 <form action="" method="post">
                     <input type="hidden" name="action" value="join">
                     <input type="submit" value="Return">
+                    <a href="https://dangportfolio-9d487cd1148d.herokuapp.com/#footer"><i class="fa-solid fa-house"></i> Back To Home</a>
                 </form>
+         <!-- fontawesome -->
+            <script src="https://kit.fontawesome.com/a110f8f65c.js" crossorigin="anonymous"></script>
 
             </body>
 
