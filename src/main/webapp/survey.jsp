@@ -1,6 +1,5 @@
 <%-- Document : survey Created on : Sep 28, 2023, 9:16:03 AM Author : DangBao--%>
         <%@page contentType="text/html" pageEncoding="UTF-8" %>
-        <meta charset="utf-8">
 
             <!DOCTYPE html>
             <html>
