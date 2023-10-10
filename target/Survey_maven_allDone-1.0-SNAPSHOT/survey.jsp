@@ -5,7 +5,7 @@
             <html>
 
             <head>
-                <meta charset="utf-8">
+                <meta charset="ISO-8859-1">
                 <title>Thanks page</title>
                 <link rel="stylesheet" href="styles/survey.css">
             </head>
